@@ -28,7 +28,7 @@ import java.util.zip.ZipFile;
 
 @SuppressWarnings("WeakerAccess")
 public final class ChromeDriverInstaller {
-    private static final String VERSION = "2.36";
+    private static final String VERSION = "85.0.4183.38";
 
     /**
      * ensure ChromeDriver is installed on the specified directory
